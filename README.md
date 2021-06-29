@@ -20,6 +20,13 @@ This will load the Pi Network JS SDK as a global `window.Pi` object.
 
 ## Usage
 
+### Initialize sdk
+
+```javascript
+// The SDK needs to be initialized before use
+Pi.init({version: "2.0"})
+```
+
 ### Authenticate a user
 
 You cannot perform any user-related operations (e.g read the user's info, request a payment from them) until you
