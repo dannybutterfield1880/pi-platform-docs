@@ -1,3 +1,5 @@
+*I couldn't update the main repository to add the initialization step so I forked it instead*
+
 # Javascript SDK
 
 The JS SDK is the frontend SDK, designed to be used in your HTML pages or Single-Page Apps, served in the Pi Browser.
